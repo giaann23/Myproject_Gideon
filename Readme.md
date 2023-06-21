@@ -1,1 +1,1 @@
-lokal repository
+belajar ignore
